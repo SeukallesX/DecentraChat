@@ -20,13 +20,6 @@ This project is currently focused on design and documentation. Core development 
 ---
 
 ## Roadmap  
-- [ ] Draft system architecture and select technology stack  
-- [ ] Research decentralized messaging protocols  
-- [ ] Plan AI integration strategy (NLP models)  
-- [ ] Document encryption and security design  
-- [ ] Develop MVP prototype  
-- [ ] Test decentralized chat flow with AI integration  
-- [ ] Finalize capstone report  
 
 ---
 
